@@ -1,6 +1,6 @@
 [![Build status](https://ci.appveyor.com/api/projects/status/wwk06klaigec23ro?svg=true)](https://ci.appveyor.com/project/OksanaBannova/events-2)
 
-#### [Ссылка на Github Pages]()
+#### [Ссылка на Github Pages](https://oksanabannova.github.io/events-2/)
 
 ## Домашняя работа «Обработка событий: Игра с гоблинами»
 

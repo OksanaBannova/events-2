@@ -14,7 +14,7 @@
     "doc": "jsdoc -c jsdoc.conf.json",
     "preshow:coverage": "yarn run coverage",
     "show:coverage": "live-server coverage/lcov-report",
-    "preshow:doc": "yarn run doc",
+
     "show:doc": "live-server doc",
     "preshow:dist": "yarn run build",
     "show:dist": "live-server dist"
